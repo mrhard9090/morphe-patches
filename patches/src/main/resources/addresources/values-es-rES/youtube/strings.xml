@@ -1283,7 +1283,7 @@ La reproducción de vídeo con AV1 se puede atascar o perder fotogramas."</strin
   <string name="morphe_spoof_video_streams_stats_for_nerds_title">Mostrar la falsificación en \'Estadísticas avanzadas\'</string>
   <!-- misc.fix.videoactionbar.restoreOldVideoActionBarPatch -->
   <string name="morphe_restore_old_video_action_bar_title">Restaurar antigua barra de acciones de vídeo</string>
-  <string name="morphe_restore_old_video_action_bar_summary">"Soluciona el problema de que los botones de acción de los vídeos no se pueden ocultar.
+  <string name="morphe_restore_old_video_action_bar_summary">"Corrige que no se puedan ocultar los botones de acción de vídeo
 
-Limitación: Vuelve al estilo antiguo de la superposición \"Más vídeos\""</string>
+Limitación: Vuelve al antiguo estilo de superposición de 'Más vídeos'"</string>
 </resources>
